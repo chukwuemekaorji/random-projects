@@ -8,4 +8,5 @@ def main():
     result = convert(text)
     print(result)
 
-main()
+if __name__ == "__main__":
+    main()
